@@ -1,1 +1,1 @@
-# No active config
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dfgh.falsemirrov.com&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&sid=fb2a682d44bdc70c&type=tcp&headerType=none#%F0%9F%90%8F87%40oneclickvpnkeys
